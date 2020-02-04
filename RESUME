@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title style='bold'>Resume</title>
+</head>
+<body>
+<h1 align='center'>Resume</h1>
+<img align='right' src='' height='180px' width='150px'>
+<br>
+<p><b>SACHIN CHANDAN TOPUL</b></p>
+<p><b>E-Mail: sachintopul2303@gmail.com</b></p>
+<p><b>LinkedIn: <a href='#'> Sachin Topul</a></b></p>
+<p><b>Mobile No: 9156509769</b></p>
+<br><br>
+<hr>
+<h3>Career objective:</h3> 
+<t>To work in an organization where I can use my skills to achieve the organization objective and navigate my learning skills in digital world.
+
+<h3>Educational Qualification:</h3>
+<table style='width:70%' border='1'>
+<tr align='center'>
+<th>Degree</th>
+<th>College</th>
+<th>University</th>
+<th>Percentage/CGPA</th>
+<th>Passing Year</th>
+</tr>
+<tr align='center'>
+<td >B.E</td>
+<td >Walchand Institute of Technology</td>
+<td >Solapur University</td>
+<td >8.97</td>
+<td >2020*</td>
+</tr>
+<tr align='center'>
+<td>H.S.C</td>
+<td>Walchand College of Arts and Science</td>
+<td>Pune Divisional Board</td>
+<td>72.46%</td>
+<td>2016</td>
+</tr>
+<tr align='center'>
+<td>S.S.C</td>
+<td>Hindustani Covenant Church High School</td>
+<td>Pune Divisional Board</td>
+<td>87.40%</td>
+<td>2014</td>
+</tr>
+</table>
+<br>
+<h3>Projects:</h3>
+<ul>
+<li><p style='width:80%'><b>BE Project:</b><br>
+<b>Title:</b> “ Road Accident Detection using IoT”.<br>
+<b>Duration:</b>In Progress<br>
+<b>Summary:</b> Accident detection mechanism by Ultrasonic sensor by its principal working and predefined threshold value of device placed object. Arduino Mega 2560 + ESP2866(Wifi) integrated module board is programized with python using Arduino IDE to send alert to end server and provide emergency services as soon as possible. GPS module is integrated to send accident detected area location. User needs to connect to device by sharing a source of internet connection. 
+<br></p>
+</li>
+<li>
+<p style='width:80%'><b>TE Project:</b><br>
+<b>Title:</b> “ AR Watch”.<br>
+<b>Duration:</b> 3 months.<br>
+<b>Summary:</b> The main purpose of this project is to reduce manual work of shopkeeper and to provide customer all models through mobile. User scan the surface and detect the marker plots and tries various watch models. By using Sceneform SDK from Android we developed the app.
+</p>
+</li>
+</ul>
+<h3>Technical Skills:</h3>
+<ul>
+<li>Java</li>
+<li>Python</li>
+<li>C#</li>
+<li>C++</li>
+<li>C</li>
+<li>Android</li>
+</ul>
+<h3>Certifications:</h3>
+<ul>
+<li><p>Programming, Data Structure and Algorithm using C in NPTEL(62%)</b><a href='#'>Click</a></p></li>
+<li><p>Programming in Java in NPTEL(69%).</b><a href='#'>Click</a></p></li>
+<li><p>5th Prize in CG Animation conducted by Computer Society of India at WIT.</b><a href='#'>Click</a></p></li>
+<li><p>Top 50 in SEED IT IDOL 2109 conducted at Solapur University.</b><a href='#'>Click</a></p></li>
+</ul>
+<h3>Miscellaneous Information:</h3> 
+
+<p>D.O.B: 	5th November, 1998.</p>
+<p>Address:	1350, Bhadravati Peth, near Sahakari Rugnalaya ,Solapur.  
+    	Pin no:413005.</p> 
+<p>Gender:	Male.</p>
+<p>Languages:	English, Hindi, Marathi, Telugu.</p>
+<br>
+	
+<p>I hereby declare that the particulars stated by me here in are true to the best of my knowledge
+and belief.</p>
+<br><br>
+<p align='right'> SACHIN CHANDAN TOPUL</P>
+</body>
+</html>
